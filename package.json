@@ -1,0 +1,25 @@
+{
+  "name": "react-native-banner",
+  "version": "0.1.0",
+  "description": "react-native-banner",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenxucheng/react-native-banner.git"
+  },
+  "author": {
+    "name": "wenxucheng",
+    "email": "wenxucheng@163.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenxucheng/react-native-banner/issues"
+  },
+  "homepage": "https://github.com/wenxucheng/react-native-banner#readme"
+}
