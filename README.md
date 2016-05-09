@@ -32,3 +32,13 @@ the [Swiper](./Swiper.js)  is from author [@xiaoyangchao](https://github.com/xia
 ## Screenshot
 ![](./images/banner_demo_ios.gif)
 ![](./images/banner_demo_android.gif)
+
+
+## Run example
+
+```javascript
+cd ./example && npm install
+react-native run-ios
+react-native run-android
+
+```
